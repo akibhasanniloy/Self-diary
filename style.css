@@ -147,20 +147,16 @@ button:hover{
   border: none;
 } */
 /* position mindset again */
-.position-mindsetContainer{
-  display: flex;
-  justify-content: center;
-}
 .position-mindsetContainer {
   background-image: url("images/gradient2.png"), url("images/watch.png");
   background-repeat: no-repeat;
   width: 1140px;
   height: 300px;
-  /* margin-left: 10rem; */
-  background-position: bottom right;
+  margin-left: 10rem;
+  /* background-position: bottom right; */
   margin-top: 150px;
 }
-.position-mindsetimg{
+.position-mindsetimg {
   background-size: cover;
   background-position: center;
   display: flex;
@@ -197,7 +193,7 @@ button:hover{
   border: none;
   margin-top: 130px;
   width: 1038px;
-  height: 577px;
+  height: 400px;
   flex-shrink: 0;
   background: #151414;
   padding-left: 230px;
